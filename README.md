@@ -30,3 +30,56 @@ ___
 
 ![](https://github.com/Chuksdgreat/Hospitality-Domain-Project/blob/main/Fact%20aggregated%20.png)
 
+
+## Data Modeling 
+Because we have five different tables we are using to draw insights, there is need to establish relationship between these five tables so that our analysis and visualizatiion will be possible. 
+I was able to also create twenty four new measures that reveals more informations from the date 
+
+![](https://github.com/Chuksdgreat/Hospitality-Domain-Project/blob/main/Data%20modeling%20.png)
+
+## Data Visualization 
+
+![](https://github.com/Chuksdgreat/Hospitality-Domain-Project/blob/main/Dashboard.png)
+
+The dashboard has five different visualizations of data and five different filter that can be used for perusing through the date. Properly gleaning the necessary information from the dashboard will help to bring a concise and meaningful recommendation. 
+
+### 1. Revenue category
+   Here we can see the percentage of the revenue of business and luxury category of property.
+
+### 2. Table of data
+
+   The table contains various columns and new measures that will further give us more insight and information about the date. The data in this table can be arranged in ascending or    
+   descending order base on the information we need to get from the data.
+
+### 3. Trend
+
+   The trend chart shows the weekly trend of revenue per room, average daily rating, and occupancy ratio
+
+### 4. Realization and booking table
+
+    Here we can see the booking trends and occupancy
+
+### 5. Performance Table
+
+   This table shows the occupancy, revenue per room and realization percentage of weekend and weekday performance.
+
+### 6. Filters
+
+   a. City: Help to filtter and peruse the data according to the difference cities where AtliQ Grand propperties are located.
+   
+   b. Room: We can glean lesson from different room type by using the room filter
+   
+   c. Property name: Help us access information of differently type of properties quicly.
+   
+   d. Month: The month filter give us access to view and study our data according to month.
+   
+   e. Week: The weekly filter help us to better peruse the data according to different weeks.  
+
+### KPI(Key Performance Indicator)
+
+The dashboard also carries the KPI of revenue generated, revenue generated per room, average daily rating, occupancy percentage, etc. The interesting of it is the fact that the KPI shows us the level of revenue that was generated according weeks and months. So as you select different weeks, the revenue and other performance key changes to the fiqure that AtliQ Grand is making for every week and months. 
+
+## Conclusion and Recommendation 
+1. 
+
+
