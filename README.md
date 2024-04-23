@@ -14,7 +14,19 @@ Different data was collected carring different informations such as; data, hotel
 ![](https://github.com/Chuksdgreat/Hospitality-Domain-Project/blob/main/dim%20data%20.png)
 ___
 
-2. The hotel data below shows the 
-![](https://github.com/Chuksdgreat/Hospitality-Domain-Project/blob/main/dim%20hotel%20.png)
+2. The hotel data below shows the different properties of AtliQ Grand scattered around the five different cities in India. With two categories of the properties whic is business and luxury category.
+   
+![](https://github.com/Chuksdgreat/Hospitality-Domain-Project/blob/main/dim%20hotel%202.png)
 
-2. 
+3.  The room data of AtliQ Grand is showing the different room that can be found in the different properties of AtliQ Grand
+
+![](https://github.com/Chuksdgreat/Hospitality-Domain-Project/blob/main/dim%20rooms%202.png)
+
+4. Here we can see from the booking data the various booking method, rating, date of booking and other factor that could affect the booking. 
+
+![](https://github.com/Chuksdgreat/Hospitality-Domain-Project/blob/main/fact%20bookings.png)
+
+5. We can glean from the aggregated table various information such as room category, rating which can affect our bookiing, capacity and details of successful bookings. 
+
+![](https://github.com/Chuksdgreat/Hospitality-Domain-Project/blob/main/Fact%20aggregated%20.png)
+
