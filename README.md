@@ -97,7 +97,7 @@ The dashboard also carries the KPI of revenue generated, revenue generated per r
    a. Munbai: AtliQ Grand has eight properties in Mumbai with the highest revenue of 669 million, 3.9 occupancy % and average rating of 3.56. This means that because of the population 
       of number of properties Atliq Grand has in Mumbia, the revenue and occupancy tends to increase.
    
-   ##### Observation for Mumbai:
+   ##### Observation for Mumbai
    From the dashboard, i observe that Mumbai has the highest number of properties but the occupancy percentage and average rating of Mumbai is not consistent with the number of 
    properties that is located in Mumbai and this factor can be affecting the revenue that AtliQ Grand should be receving from Mumbai. In otherwords, Mumbai is expected to have the 
    highest number of occupancy and average rating because it has the highest number of properties.
@@ -105,9 +105,24 @@ The dashboard also carries the KPI of revenue generated, revenue generated per r
    ##### Recommendation(s) for Mumbai
    I will recommend that the Mumbai management look into their services because that is possible what can be affecting rating and can also be the cause of low occupancy. If this is put     in in place, Mumbai occupancy will increase and te reneue will equally increase.
 
-   b. 
+   b. Bangalore: This is the second state where AtliQ Grand has highest number of properties and revenue. Bangalore has 420 million revenue with occupancy percentage of 3.8 and average      rating of 3.4. Bangalore has almost the same occupancy percentage with Mumbai which means we have more customers petronizing Bangalore branches.
 
-   b.  
+   ##### Observation
+   The rating from Bangalore is not really impressive and can possible be traced to how the workers in Bangalore handle customers
+
+   ##### Recommendation
+   I will recommend for proper checking to be done on the various branches to ensure that the facilities are in good conditions because these are the factors that affect poor rating.
+
+   c. Hyderabad: From the report from the dashboard, Hyderabad is not doing too gool with 6 properties, 3.7 occupancy percentage and average rating of 3.66.
+
+   d. Delhi: This is the city where AtliQ Grand has the least number of properties, highest occupancy percentage and highest rating. What is this suggesting?
+
+   ##### Observation
+   Delhi management may not be remiting the highest revenue but they are doing pretty well in terms of retaining more customers and service delivering. Though it has only 5 properties      but the rating and occupancy out numbered every other state.
+
+   ##### Recommendation
+   Delhi is a very good area to invest and also encourage the management of AtliQ Grand in Delhi to continue in their service delivering. Delhi is a fertile ground for investment or        building more hotel. 
+   
   
      
 
